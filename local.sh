@@ -16,7 +16,7 @@ NC='\033[0m'
 
 DEFAULT_IMAGE_NAME="so2/so2-assignments"
 DEFAULT_TAG='latest'
-DEFAULT_REGISTRY='gitlab.cs.pub.ro:5050'
+DEFAULT_REGISTRY='ghcr.io/winterzxzz/so2-labs'
 SO2_WORKSPACE="/linux/tools/labs"
 SO2_VOLUME="SO2_DOCKER_VOLUME"
 #=============================================================================
